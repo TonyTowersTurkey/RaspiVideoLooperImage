@@ -12,3 +12,5 @@ Raspi config needs to be done to expand the filesystem to allow videos to copy o
 
 video_looper.ini needs to be copied over to the /boot directory on the pi sd card to enable copymode and analog video
 
+
+for more info go to https://videolooper.de/
